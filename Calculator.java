@@ -9,4 +9,3 @@ public class Calculator {
     }
 }
 
-echo "From Java"
